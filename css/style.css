@@ -9,3 +9,7 @@ img{
 	margin-bottom: 5px;
 
  }
+
+ #picture1{
+ 	image-orientation: 90deg;
+ }
